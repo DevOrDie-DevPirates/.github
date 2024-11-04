@@ -38,8 +38,8 @@ Thor's Weather Watch
 ```
 
 ## Meet the **DevPirates** 🏴‍☠️
-- **Pushkar Shinde** - Team Lead, Backend Development
-- **Shubham Gupta** - Project Coordinator, Frontend Specialist
+- **Pushkar Shinde** - Team Lead, Frontend Specialist
+- **Shubham Gupta** - Project Coordinator, Backend Development
 - **Anshika Kesari** - UI/UX Designer
 - **Himani Goyal** - API Integration & Quality Assurance
 
