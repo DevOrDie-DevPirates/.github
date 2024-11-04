@@ -6,8 +6,8 @@
 
 ## Project Overview 🌀
 In the world of Asgard, storms don’t just happen—they’re summoned. But even the mighty Thor knows the importance of predicting the skies! **Thor's Weather Watch** is a real-time weather platform crafted to help users stay a step ahead of any looming storm, rain, or shine.
-
-> “Whether you’re preparing for a sunny day in Asgard or a downpour on Midgard, this platform ensures you have the latest weather data at your fingertips. Don’t let the weather catch you off guard—plan your day like a god.” 
+Whether you’re preparing for a sunny day in Asgard or a downpour on Midgard, this platform ensures you have the latest weather data at your fingertips. Don’t let the weather catch you off guard—plan your day like a god.
+> 🌐 **Abstract**: Dive deeper into our concept [here](https://drive.google.com/file/d/1CTym_GeuDNFED6ebw4joVjzrkDg3Pd4u/view?usp=sharing)
 
 ---
 
