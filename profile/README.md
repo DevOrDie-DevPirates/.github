@@ -51,7 +51,7 @@ Are you interested in contributing? We’re open to collaborations and PRs.
 ---
 
 ## License 📜
-This project is licensed under the MIT License.
+This project is licensed under our terms.
 
 ---
 
